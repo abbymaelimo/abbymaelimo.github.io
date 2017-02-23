@@ -6,7 +6,8 @@ color:white;
 font-size: 14pt; }
 body { font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
   text-align: center; }
-ul { padding: 0; }
+ul { padding: 0;
+  background-color: rgba(0, 0, 0, 0.7); }
 li { display: inline-block; }
 a:link, a:visited { color: white;
   text-decoration: none;
