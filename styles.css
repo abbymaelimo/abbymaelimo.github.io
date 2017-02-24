@@ -18,5 +18,5 @@ a:link, a:visited { color: white;
 a:hover { color: #800080; }
 div { background: rgba(0, 0, 0, 0.7); }
 h1 { color: #800080; }
-img {width: 100%;
+img {width: auto;
     height: auto; }
